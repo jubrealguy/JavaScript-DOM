@@ -6,7 +6,7 @@ const heightTag = document.createElement("h2");
 const countryTag = document.createElement("h3");
 
 const fullName = document.createTextNode("My name is Jubreel Adebayo");
-const height = document.createTextNode("My heigh is 1.79m");
+const height = document.createTextNode("My height is 1.79m");
 const country = document.createTextNode("I am from NIGERIA");
 
 fullNameTag.appendChild(fullName);
